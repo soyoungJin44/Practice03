@@ -27,7 +27,7 @@ public class Ex19 {
 			}
 			else if(c == 2) {
 				System.out.print("출금액: ");
-				int m = sc.nextInt();
+				int m = sc.nextInt(); 
 				result = result - m;
 			}
 			else if(c == 3) {
